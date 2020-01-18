@@ -1,1 +1,1 @@
-web: node -r esm app.cjs
+web: node -r esm app.mjs
